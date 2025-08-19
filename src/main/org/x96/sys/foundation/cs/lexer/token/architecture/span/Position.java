@@ -1,4 +1,4 @@
-package org.x96.sys.foundation.token.architecture.span;
+package org.x96.sys.foundation.cs.lexer.token.architecture.span;
 
 public record Position(int line, int column, int offset) {
 

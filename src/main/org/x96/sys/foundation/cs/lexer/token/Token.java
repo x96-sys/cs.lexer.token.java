@@ -1,7 +1,7 @@
-package org.x96.sys.foundation.token;
+package org.x96.sys.foundation.cs.lexer.token;
 
-import org.x96.sys.foundation.token.architecture.Lexeme;
-import org.x96.sys.foundation.token.architecture.span.Span;
+import org.x96.sys.foundation.cs.lexer.token.architecture.Lexeme;
+import org.x96.sys.foundation.cs.lexer.token.architecture.span.Span;
 
 import java.util.Objects;
 

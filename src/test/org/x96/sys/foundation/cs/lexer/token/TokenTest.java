@@ -1,12 +1,12 @@
-package org.x96.sys.foundation.token;
+package org.x96.sys.foundation.cs.lexer.token;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotEquals;
 
 import org.junit.jupiter.api.Test;
-import org.x96.sys.foundation.token.architecture.Lexeme;
-import org.x96.sys.foundation.token.architecture.span.Position;
-import org.x96.sys.foundation.token.architecture.span.Span;
+import org.x96.sys.foundation.cs.lexer.token.architecture.Lexeme;
+import org.x96.sys.foundation.cs.lexer.token.architecture.span.Position;
+import org.x96.sys.foundation.cs.lexer.token.architecture.span.Span;
 
 class TokenTest {
 

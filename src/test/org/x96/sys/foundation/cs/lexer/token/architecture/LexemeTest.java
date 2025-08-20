@@ -1,4 +1,4 @@
-package org.x96.sys.foundation.token.architecture;
+package org.x96.sys.foundation.cs.lexer.token.architecture;
 
 import static org.junit.jupiter.api.Assertions.*;
 

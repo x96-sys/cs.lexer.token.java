@@ -1,4 +1,4 @@
-package org.x96.sys.foundation.cs.lexer.token.architecture;
+package org.x96.sys.lexer.token.architecture;
 
 public record Lexeme(byte b) {
 

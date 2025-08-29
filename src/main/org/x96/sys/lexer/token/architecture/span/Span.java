@@ -1,4 +1,4 @@
-package org.x96.sys.foundation.cs.lexer.token.architecture.span;
+package org.x96.sys.lexer.token.architecture.span;
 
 public record Span(Position start, Position end) {
 

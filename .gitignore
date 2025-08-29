@@ -1,0 +1,7 @@
+.idea
+.zig-cache
+build.xml
+*.iml
+lib
+tools
+out
